@@ -8,9 +8,9 @@ public class printStackRec {
         if(st.isEmpty()){
             return;
         }
-        int top=st.pop();
+        int top=st.peek();
         displayRec(st);
-        System.out.print(top+" ");
+        System.out.print  (top+" ");
         st.push(top);
     }
     public static void main(String[] args) {

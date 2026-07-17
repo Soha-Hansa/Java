@@ -3,7 +3,6 @@
 /*steps: 1.copy into arr in reverse order while popping 
          2.print stack forward and pushing again in stack  */
 package Stacks;
-
 import java.util.Stack;
 
 public class printStack2 {
