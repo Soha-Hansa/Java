@@ -1,0 +1,7 @@
+# Ignore build output and compiled Java files
+bin/
+*.class
+
+# Ignore IDE workspace files
+*.iml
+.idea/

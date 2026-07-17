@@ -1,0 +1,7 @@
+{
+  "code-runner.executorMap": {
+    "java": ".\\run-current-java-file.bat \"${file}\""
+  },
+  "code-runner.runInTerminal": true,
+  "code-runner.cwd": "${workspaceFolder}"
+}
