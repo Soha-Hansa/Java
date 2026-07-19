@@ -4,12 +4,7 @@ This repository contains Java examples organized in folders such as `Stacks`, `O
 
 ## Running Java programs
 
-1. Open a Command Prompt in the repository root:
-   ```bat
-   cd C:\Users\SOHA\Desktop\Java
-   ```
-
-2. Run a program with the helper script:
+1. Run a program with the helper script:
    ```bat
    run-java.bat Stacks.copyStackReverseOrder
    ```
